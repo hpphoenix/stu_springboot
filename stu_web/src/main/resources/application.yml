@@ -1,0 +1,5 @@
+dubbo:
+  application:
+    name: stu_web
+  registry:
+    address: zookeeper://172.18.224.208:2181
